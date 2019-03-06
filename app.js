@@ -1,4 +1,5 @@
-const apiKey = '<your api-key here>';
+// const apiKey = '<your api-key here>';
+const apiKey = 'QD4fUTP5RVd0m8Rxb7SuV2XX9rjETSOv';
 const api = 'https://api.giphy.com/v1/gifs/trending'
 
 const main = document.querySelector('.container');

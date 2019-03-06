@@ -1,6 +1,6 @@
 {
-  "name": "Trending Meme",
-  "short_name": "Meme",
+  "name": "The Latest Synthesizer Memes from Giphy",
+  "short_name": "Giphy Synth App",
   "theme_color": "#0f1113",
   "background_color": "#111316",
   "display": "standalone",
